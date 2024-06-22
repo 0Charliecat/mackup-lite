@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^20.14.8",
     "typescript": "^5.5.2"
+  },
+  "dependencies": {
+    "conf-cfg-ini": "^1.2.3"
   }
 }
